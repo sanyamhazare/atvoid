@@ -1,0 +1,11 @@
+$bgColor: #00ffff;
+$width: 300px;
+
+body{
+  background: $bgColor;
+  border: 50px solid #fff;
+}
+
+img{
+  width: $width;
+}
